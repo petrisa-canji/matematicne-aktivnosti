@@ -1,6 +1,6 @@
 ## Grafi in kromatična števila
 
-Datoteka [`grafi-in-kromaticne-barve.pdf`](gradivo/grafi-in-kromaticne-barve.pdf).
+Datoteka [`grafi-in-kromaticna-stevila.pdf`](gradivo/grafi-in-kromaticna-stevila.pdf).
 
 ### Avtorji
 
