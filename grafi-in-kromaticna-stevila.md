@@ -4,6 +4,6 @@ Datoteka [`grafi-in-kromaticna-stevila.pdf`](gradivo/grafi-in-kromaticna-stevila
 
 ### Avtorji
 
-* Lepa Anka
-* Uršika Zala
-* Peter Klepec
+* Lepa Anka a.k.a. Martin Radman
+* Uršika Zala a.k.a. Petrisa Čanji
+* Peter Klepec a.k.a. Urh Primožič
