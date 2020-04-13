@@ -1,6 +1,7 @@
 ## Aktivnosti
 
 * [Grafi in kromatična števila](grafi-in-kromaticna-stevila.html)
+* [Simetrija](simetrija.html)
 
 ## O projektu
 
