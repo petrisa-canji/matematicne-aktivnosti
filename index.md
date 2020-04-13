@@ -2,6 +2,7 @@
 
 * [Grafi in kromatična števila](grafi-in-kromaticna-stevila.html)
 * [Simetrija](simetrija.html)
+* [Teorija grafov za otroke](teorija-grafov-za-otroke.html)
 
 ## O projektu
 
